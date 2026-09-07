@@ -14,7 +14,7 @@
 
     <h2>Your room has been reserved successfully.</h2>
 
-    <p>Thank you for using our Hotel Reservation System.</p>
+    <p>Thanks for using our Hotel Reservation System.</p>
 
     <br>
 
