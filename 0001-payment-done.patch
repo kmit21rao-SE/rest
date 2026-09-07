@@ -1,0 +1,45 @@
+From e347812f9d2e4d81dafa644d2a1cd93c9a4915d6 Mon Sep 17 00:00:00 2001
+From: Sreenilay <kmit21rao@gmail.com>
+Date: Mon, 7 Sep 2026 15:10:42 +0530
+Subject: [PATCH] payment done
+
+---
+ pay.java                    | 0
+ pay.txt                     | 1 +
+ src/main/webapp/reserve.jsp | 4 ++--
+ 3 files changed, 3 insertions(+), 2 deletions(-)
+ create mode 100644 pay.java
+ create mode 100644 pay.txt
+
+diff --git a/pay.java b/pay.java
+new file mode 100644
+index 0000000..e69de29
+diff --git a/pay.txt b/pay.txt
+new file mode 100644
+index 0000000..5d8f0cf
+--- /dev/null
++++ b/pay.txt
+@@ -0,0 +1 @@
++payment mode
+diff --git a/src/main/webapp/reserve.jsp b/src/main/webapp/reserve.jsp
+index 66795f6..6d7ef18 100644
+--- a/src/main/webapp/reserve.jsp
++++ b/src/main/webapp/reserve.jsp
+@@ -14,11 +14,11 @@
+ 
+     <h2>Your room has been reserved successfully.</h2>
+ 
+-    <p>Thank you for using our Hotel Reservation System.</p>
++    <p>Thanks for using our Hotel Reservation System.</p>
+ 
+     <br>
+ 
+     <a href="index.jsp">Make Another Reservation</a>
+ 
+ </body>
+-</html>
+\ No newline at end of file
++</html>
+-- 
+2.52.0.windows.1
+
